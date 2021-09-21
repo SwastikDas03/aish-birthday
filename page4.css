@@ -1,0 +1,48 @@
+body{
+    background: #feac5e;
+    background: linear-gradient(90deg,#feac5e 0%, #c779d0 45%, #4bc0c8 90%);
+    padding: 0 2rem;
+}    
+@font-face {
+    font-family: 'Acme-Regular';
+    src: url(./Acme-Regular.ttf);
+}
+@font-face {
+    font-family: 'Robot0';
+    src: url(./Roboto-BlackItalic.ttf);
+}
+.top-div{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+}
+.u-cid{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.finale{
+    margin-bottom:5rem;
+    height:40rem;
+    width:40rem;
+}
+.me{
+    font-family: 'Acme';
+    font-size: 25px;
+}
+.sd-vid{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.dasu{
+    margin-bottom:5rem;
+    height:40rem;
+    width:40rem;
+}

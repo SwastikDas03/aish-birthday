@@ -1,0 +1,93 @@
+body{
+    background: #feac5e;
+    background: linear-gradient(90deg,#feac5e 0%, #c779d0 45%, #4bc0c8 90%);
+    padding: 0 2rem;
+}    
+@font-face {
+    font-family: 'Acme-Regular';
+    src: url(./Acme-Regular.ttf);
+}
+@font-face {
+    font-family: 'Robot0';
+    src: url(./Roboto-BlackItalic.ttf);
+}
+.Story{
+    color:#6F0606;
+    font-family: 'Acme-Regular';
+    font-size: 150px;
+}
+.story{
+    font-family: 'Roboto';
+    font-size:25px;
+}
+.haha{
+    margin-left: 325px;
+    height: 500px;
+    width: 600px;
+
+}
+.top-div{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+}
+.Swastik{
+    margin-left: 475px;
+    height: 400px;
+    width: 300px;
+}
+.aishu{
+    margin-left: 475px;
+    height: 400px;
+    width: 300px;
+
+}
+.mit{
+    margin-left: 200px;
+    height: 400px;
+    width: 300px;
+}
+.Mit{
+    margin-left: 200px;
+    height: 400px;
+    width: 300px;
+}
+.avrios{
+    margin-left: 200px;
+    height: 700px;
+    width: 300px;
+
+}
+.avrioa{
+    margin-left: 200px;
+    height: 700px;
+    width: 300px;
+
+}
+.bed{
+    margin-left: 200px;
+    height: 600px;
+    width: 300px;
+}
+.bear{
+    margin-left: 275px;
+    height: 600px;
+    width: 600px;
+}
+.call{
+    margin-left: 200px;
+    height: 600px;
+    width: 300px;
+
+}
+.tog{
+    margin-left: 200px;
+    height: 400px;
+    width: 800px;
+
+}
+.We{
+    margin-left: 475px;
+    height: 500px;
+    width: 300px;
+}

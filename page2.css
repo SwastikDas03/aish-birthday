@@ -1,0 +1,26 @@
+body{
+    background: #feac5e;
+    background: linear-gradient(90deg,#feac5e 0%, #c779d0 45%, #4bc0c8 90%);
+}    
+@font-face {
+    font-family: 'Acme-Regular';
+    src: url(./Acme-Regular.ttf);
+}
+.head{
+    font-family: 'Acme-Regular';
+    font-size: 75px;
+}
+.para{
+    font-family: 'Roboto';
+    font-size: 25px;
+}
+.top-div{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+}
+.hot{
+    margin-left: 450px;
+    height: 500px;
+    width: 350px;
+}

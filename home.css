@@ -1,0 +1,204 @@
+body{
+    background: #feac5e;
+    background: linear-gradient(90deg,#feac5e 0%, #c779d0 45%, #4bc0c8 90%);
+}    
+
+.top-div{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+}
+
+.right-side-image{
+    margin-top:-45px;
+    margin-right:-10px;
+}
+.left-side{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex:1;
+}
+.right-side{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width:100%;
+    flex:1;
+    align-items: flex-end;
+}
+
+
+.my-heading{
+    color:#6F0606;
+    font-family: 'acme';
+    font-size: 55px;
+}
+.my-wish{
+    color: #BA1616;;
+    font-family: 'caviat';
+    font-size:27px;
+
+}
+
+
+@font-face {
+    font-family: 'acme';
+    src: url(./Acme-Regular.ttf);
+}
+@font-face {
+    font-family: 'caviat';
+    src: url(./Caveat-VariableFont_wght.ttf);
+}
+@font-face{
+    font-family: 'PermanentMarker';
+    src: url(./PermanentMarker-Regular.ttf);
+}
+
+
+.image-column{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'PermanentMarker';
+}
+.blala{
+    margin: 0 50px;
+}
+.woa{
+    margin:0 50px;
+}
+.lala{
+    margin: 0 50px;
+}
+.ooh{
+    margin:0 50px;
+}
+.hohaha{
+    color: #6F0606;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 50px;
+}
+.div-video{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-video{
+    margin-bottom:5rem;
+    height:30rem;
+    width:20rem;
+}
+
+.hottie{
+    /* margin-left: 80px; */
+    height: 300px;
+    width:175px 
+    
+}
+
+.model{
+    /*margin-left: 80px;*/
+    height:300px;
+    width: 175px;
+}
+.bitvh{
+    /*margin-left: 80px;*/
+    height: 300px;
+    width: 175px;
+}
+.annoyed{
+    /*margin-left: 80px;*/
+    height: 300px;
+    width:190px;
+}
+.cutie{
+    margin-top: 100px;
+    height: 300px;
+    width:175px;
+
+}
+.talented{
+    margin-top: 100px;
+    /* margin-left: 120px; */
+    height: 300px;
+    width:175px;
+}
+.sleepyhead{
+    margin-top: 100px;
+    /* margin-left: 120px; */
+    height: 300px;
+    width:175px;
+}
+.apologizer{
+    margin-top: 100px;
+    /* margin-left: 120px; */
+    height: 300px;
+    width:175px;
+}
+.beauty{
+    margin-top: 100px;
+    /* margin-left: 175px;/ */
+    height: 300px;
+    width:175px;
+}
+.kisser{
+    margin-top: 100px;
+    /* margin-left: 100px; */
+    height: 300px;
+    width:175px;
+    
+}
+.happy{
+    /* margin-top: 200px; */
+    /* margin-left: 150px; */
+    height:350px;
+    margin:30px;
+    /* width: 375px; */
+    width:auto;
+}
+
+.bottom-portion{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
+.bottom-portion-image{
+    height:20rem;
+    width:auto;
+}
+
+.parent-column{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+
+
+}
+.link{
+    margin:0 5px;
+}
+.child-row{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+}
+
+.write{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+}
